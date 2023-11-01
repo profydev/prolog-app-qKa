@@ -141,3 +141,7 @@
     display: flex;
   }
 }
+
+.flipIconVertical > button > img {
+  rotate: (180deg);
+}
